@@ -1,0 +1,9 @@
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\bin\Debug\netstandard2.0\SocialCommerceLibrary.deps.json
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\bin\Debug\netstandard2.0\SocialCommerceLibrary.dll
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\bin\Debug\netstandard2.0\SocialCommerceLibrary.pdb
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\obj\Debug\netstandard2.0\SocialCommerceLibrary.csprojAssemblyReference.cache
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\obj\Debug\netstandard2.0\SocialCommerceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\obj\Debug\netstandard2.0\SocialCommerceLibrary.AssemblyInfoInputs.cache
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\obj\Debug\netstandard2.0\SocialCommerceLibrary.AssemblyInfo.cs
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\obj\Debug\netstandard2.0\SocialCommerceLibrary.dll
+C:\Users\mysql\source\repos\Social Commerce\SocialCommerce Library\obj\Debug\netstandard2.0\SocialCommerceLibrary.pdb

@@ -1,0 +1,15 @@
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\bin\Debug\Social Commerce.exe.config
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\bin\Debug\Social Commerce.exe
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\bin\Debug\Social Commerce.pdb
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social Commerce.csprojAssemblyReference.cache
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\MainWindow.g.cs
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\App.g.cs
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social Commerce_MarkupCompile.cache
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social Commerce_MarkupCompile.lref
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\MainWindow.baml
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social Commerce.g.resources
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social_Commerce.Properties.Resources.resources
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social Commerce.csproj.GenerateResource.cache
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social Commerce.csproj.CoreCompileInputs.cache
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social Commerce.exe
+C:\Users\mysql\source\repos\Social Commerce\Social Commerce\obj\Debug\Social Commerce.pdb
